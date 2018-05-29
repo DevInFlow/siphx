@@ -1,0 +1,17 @@
+{
+  "name": "SIP.hx",
+  "url": "https://github.com/varadig/siphx",
+  "license": "MIT",
+  "tags": [
+    "js",
+    "webrtc"
+  ],
+  "description": "SIP.js haxe extern library",
+  "version": "1.0.0",
+  "classPath": "src/",
+  "releasenote": "",
+  "contributors": [
+    "varadig"
+  ],
+  "dependencies": {}
+}
